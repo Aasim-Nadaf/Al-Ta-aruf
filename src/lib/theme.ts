@@ -6,7 +6,7 @@ import {
 
 export const THEME = {
   light: {
-    background: "hsl(0 0% 100%)",
+    background: "hsl(42 38% 97%)",
     foreground: "hsl(0 0% 3.9%)",
     card: "hsl(0 0% 100%)",
     cardForeground: "hsl(0 0% 3.9%)",

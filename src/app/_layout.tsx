@@ -26,7 +26,7 @@ export default function RootLayout() {
         <Stack.Screen
           name="index"
           options={{
-            title: "Al-Ta'aruf",
+            title: "Al-Ta'aruf | Begin with intention",
           }}
         />
       </Stack>
